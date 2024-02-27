@@ -11,4 +11,4 @@ run `npm run start` to start a localhost
 
 | Desktop           | IPad              | IPhone            |
 |-------------------|-------------------|-------------------|
-|![desktop](./screenshots/desktop.png =250x250)|![ipad](./screenshots/ipad.png =250x250)|![iphone](./screenshots/iphone.png =250x250)|
+|<img src="./screenshots/desktop.png" width="250"/>|<img src="./screenshots/ipad.png"  width="250"/>|<img src="./screenshots/iphone.png" width="250"/>|
